@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Production-First%20Mindset%20%7C%20Pattern-Based%20Learning&descAlignY=55&descAlign=50&descSize=18" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=50&lines=I+ship+production-ready+executables;Patterns+are+learned,+not+discovered;Cyber+Security+Mindset;Efficiency+Obsessed" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Production-First%20Approach%20%7C%20Pattern-Based%20Learning&descAlignY=55&descAlign=50&descSize=18" />
 
 <br/>
 
