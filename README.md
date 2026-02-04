@@ -1,8 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Production-First%20Approach%20%7C%20Pattern-Based%20Learning&descAlignY=55&descAlign=50&descSize=18" />
-
-<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=280&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%7C%20Production-First%20Approach%20%7C%20Pattern-Based%20Learning&descAlignY=55&descAlign=50&descSize=18" alt="Yuvraj Sarathe Header"/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mikky-mlh)
