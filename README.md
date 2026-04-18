@@ -1,34 +1,109 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=280&section=header&text=Yuvraj%20Sarathe&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Production-First%20Developer%20%7C%20B.Tech%20Cyber%20Security%20%7C%20LNCT%20Bhopal&descAlignY=55&descAlign=50&descSize=18" alt="Yuvraj Sarathe Header"/>
-</div>
+  
+<!-- Animated Header with Typing Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Yuvraj%20Sarathe&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20don't%20write%20code.%20I%20ship%20software.&descAlignY=55&descSize=22" alt="header"/>
 
-<div align="center">
+<!-- Typing SVG -->
+<a href="https://github.com/Mikky-mlh">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=🛡️+B.Tech+Cyber+Security+%40+LNCT+Bhopal;📦+Production-First+Developer;🚀+Shipping+real+apps%2C+not+just+repos;☕+Powered+by+caffeine+%26+curiosity" alt="Typing SVG" />
+</a>
 
+<br/>
+
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mikky-mlh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mikky_mlh/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikky-mlh.github.io/Portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mikky-mlh&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🧠 `whoami`
 
-> **Most developers write code. I ship software.**
-
-B.Tech Cyber Security student at LNCT Bhopal with a passion for building production-ready applications. I don't just write code — I package every project for immediate execution:
-
-- 📦 **Java:** Bundled JRE for zero-friction `.exe` execution
-- 🐍 **Python:** Standalone binaries via PyInstaller (no interpreter needed)
-- 🌐 **Web:** Deployed applications with modern frameworks
-- 🛡️ **Security:** Built-in input validation and exception handling from day one
+```typescript
+const yuvraj = {
+  role: "Production-First Developer",
+  location: "Bhopal, India 🇮🇳",
+  education: "B.Tech Cyber Security @ LNCT (2025-2029)",
+  
+  philosophy: "Most devs write code. I ship software.",
+  
+  currentFocus: [
+    "🚀 Building FlowForge — my own productivity OS",
+    "🛡️ Going deep on cybersecurity fundamentals",
+    "📚 Grinding DSA (Striver A2Z)",
+    "🌐 Mastering the React + TypeScript ecosystem"
+  ],
+  
+  shippingPhilosophy: {
+    java:   "Bundled JRE → zero-friction .exe",
+    python: "PyInstaller → standalone binaries",
+    web:    "PWA-first, offline-first, user-first",
+    always: "Input validation + error handling from day one"
+  },
+  
+  funFact: "I once built a To-Do app because every free one sucked 🔥"
+};
+```
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 The Flagship — FlowForge
 
-### 🌟 Live Applications
+<div align="center">
+
+<a href="https://flowforge-f5e99.web.app">
+  <img src="https://img.shields.io/badge/🚀_FLOWFORGE-Live_Now-10b981?style=for-the-badge&labelColor=0d1117" alt="FlowForge"/>
+</a>
+
+### *"I couldn't find a free productivity app that didn't suck. So I built one."*
+
+</div>
+
+> **FlowForge** is a 100% free, all-in-one productivity companion — no paywalls, no premium tiers, no nonsense. Born out of frustration, built with obsession.
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📋 Task Management
+Subtasks, priorities, tags, due dates, natural language input — the works.
+
+</td>
+<td width="33%" align="center">
+
+### ⏱️ Pomodoro + Planning
+Focus timer, Kanban board, calendar view, habit tracking, routines.
+
+</td>
+<td width="33%" align="center">
+
+### 🔄 Sync Anywhere
+Offline-first, QR device linking, Google auth, cross-platform PWA.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Stack:** `React 19` · `TypeScript` · `Tailwind v4` · `Firebase` · `Vite` · `IndexedDB` · `PWA`
+
+[![Try it Live](https://img.shields.io/badge/🌐_Try_it_Live-flowforge--f5e99.web.app-6366F1?style=for-the-badge)](https://flowforge-f5e99.web.app)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge)](https://github.com/Mikky-mlh/FlowForge)
+
+</div>
+
+---
+
+## 🚀 Other Shipped Projects
+
+### 🌐 Live Web Applications
 
 <table>
 <tr>
@@ -37,9 +112,9 @@ B.Tech Cyber Security student at LNCT Bhopal with a passion for building product
 #### 🎓 [CATMATHS](https://catmaths.vercel.app/)
 **AI-Powered CAT Preparation Platform**
 
-Free web application helping students prepare for the CAT quantitative section using AI-generated tests.
+Free web app helping students crush the CAT quant section using AI-generated tests.
 
-`Web Tech` `AI` `Netlify` `Vercel`
+`Web` `AI` `Vercel`
 
 </td>
 <td width="50%">
@@ -47,88 +122,90 @@ Free web application helping students prepare for the CAT quantitative section u
 #### 🎨 [OFE-PRO](https://ofe-pro.vercel.app/)
 **Production Web Application**
 
-Full-fledged production version with modular architecture, enhanced UX, and optimized performance.
+Modular architecture, polished UX, and optimized performance — the full-scale version.
 
-`React` `TypeScript` `Tailwind CSS` `Vite`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🤝 [UniSync](https://unisync.streamlit.app/)
-**Campus Ecosystem Platform**
-
-AI-powered peer matching connecting students based on interests and academic goals.
-
-`Streamlit` `Gemini AI` `Python`
-
-</td>
-<td width="50%">
-
-#### 📚 [NeuralPlan](https://neuralplan.streamlit.app/)
-**AI Study Planner**
-
-Personalized study schedules with Vision OCR that adapt to energy levels and learning patterns.
-
-`Streamlit` `Vision OCR` `Gemini AI`
+`React` `TypeScript` `Tailwind` `Vite`
 
 </td>
 </tr>
 </table>
 
-### 💻 Standalone Applications
+### 💻 Standalone Desktop Applications
 
 | Project | Description | Tech Stack | Type |
 |---------|-------------|------------|------|
-| **[Hangman](https://github.com/Mikky-mlh/Hangman-in-Java)** | Production-ready desktop game with 2000+ word dictionary | `Java` `Swing` | Windows `.exe` |
-| **[Connect 4](https://github.com/Mikky-mlh/Connect4-in-Python)** | Adaptive graphics with O(1) win detection | `Python` `Pygame` `NumPy` | Standalone Binary |
-| **[Tic-Tac-Toe](https://github.com/Mikky-mlh/Tic-Tac-Toe-in-CPP)** | AI opponent with colored console interface | `C++` `Windows API` | Console Game |
-| **[Guess the Number](https://github.com/Mikky-mlh/GuessTheNumberGame)** | Event-driven GUI with smart hints | `Python` `Tkinter` | GUI Application |
+| 🎮 **[Hangman](https://github.com/Mikky-mlh/Hangman-in-Java)** | Production-ready desktop game with 2000+ word dictionary | `Java` `Swing` | Windows `.exe` |
+| 🔴 **[Connect 4](https://github.com/Mikky-mlh/Connect4-in-Python)** | Adaptive graphics with O(1) win detection | `Python` `Pygame` `NumPy` | Standalone Binary |
+| ❌ **[Tic-Tac-Toe](https://github.com/Mikky-mlh/Tic-Tac-Toe-in-CPP)** | AI opponent with colored console interface | `C++` `Windows API` | Console Game |
+| 🎲 **[Guess the Number](https://github.com/Mikky-mlh/GuessTheNumberGame)** | Event-driven GUI with smart hints | `Python` `Tkinter` | GUI Application |
 
-### 🌐 Web Projects
+### 🌍 Web & Portfolio Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **[OFE](https://github.com/Mikky-mlh/OFE)** | Single HTML file challenge - zero external dependencies | [Live Demo](https://mikky-mlh.github.io/OFE/) |
+| **[OFE](https://github.com/Mikky-mlh/OFE)** | Single HTML file challenge — zero external dependencies | [Live Demo](https://mikky-mlh.github.io/OFE/) |
 | **[Web Projects](https://github.com/Mikky-mlh/Web-Projects)** | freeCodeCamp certified responsive portfolio pieces | [Live Demo](https://mikky-mlh.github.io/Web-Projects/) |
 | **[Portfolio](https://github.com/Mikky-mlh/Portfolio)** | Personal portfolio with theme switching | [Live Demo](https://mikky-mlh.github.io/Portfolio/) |
 
-### 📊 DSA Practice
-
-[![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Mikky-mlh/DSA-in-Java)
-[![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Mikky_mlh/)
-
-95 implementations across pattern-based problem solving • Striver A2Z curriculum
-
----
-
-## 🛠️ Technical Skills
+### 📊 Algorithmic Grind
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=java,python,cpp,react,typescript,html,css,js,tailwind,git,linux,vscode&theme=dark)
+[![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Mikky-mlh/DSA-in-Java)
+[![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Mikky_mlh/)
+[![Striver A2Z](https://img.shields.io/badge/Curriculum-Striver_A2Z-ef4444?style=for-the-badge)](https://github.com/Mikky-mlh/DSA-in-Java)
+
+*95 implementations • Pattern-based problem solving • Daily consistency*
 
 </div>
 
-### Proficient
-- **Java** - Standalone executables, DSA mastery, Collections Framework
-- **Python** - Streamlit apps, PyInstaller binaries, AI integration
-- **React + TypeScript** - Component architecture, hooks, modern patterns
-- **Tailwind CSS** - Utility-first styling, responsive design
-- **HTML/CSS/JavaScript** - Production-grade interfaces, freeCodeCamp certified
+---
 
-### Familiar
-- **C++** - Console applications, Windows API
-- **Gemini API** - AI integration, Vision OCR
-- **Git** - Version control, collaboration workflows
-- **Linux CLI** - Shell scripting, package management
+## 🛠️ The Arsenal
 
-### Currently Expanding
-- **Flask** - REST API development
-- **SQL** - Database design and optimization
-- **Docker** - Containerization
-- **Next.js** - Full-stack React framework
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=java,python,cpp,react,typescript,tailwind,vite,firebase,html,css,js,git,linux,vscode&theme=dark&perline=7)
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚔️ Battle-Tested
+- **Java** — Standalone `.exe`, DSA, Collections
+- **Python** — Streamlit, PyInstaller, AI integration
+- **React + TS** — Hooks, contexts, modern patterns
+- **Tailwind CSS** — Utility-first, responsive
+- **HTML/CSS/JS** — freeCodeCamp certified
+- **Firebase** — Auth, Firestore, Hosting
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 Comfortable With
+- **C++** — Console apps, Windows API
+- **Vite** — Modern build tooling
+- **IndexedDB** — Offline-first storage
+- **PWA** — Service workers, Workbox
+- **Gemini API** — AI & Vision OCR
+- **Git** — Version control workflows
+
+</td>
+<td width="33%" valign="top">
+
+### 🌱 Currently Leveling Up
+- **Flask** — REST API development
+- **SQL** — Database design
+- **Docker** — Containerization
+- **Next.js** — Full-stack React
+- **Cybersecurity** — Pen-testing basics
+- **System Design** — Scalability patterns
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -153,46 +230,65 @@ Personalized study schedules with Vision OCR that adapt to energy levels and lea
 
 ![Streak](https://github-readme-streak-stats-olive-tau-85.vercel.app/?user=Mikky-mlh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=Mikky-mlh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
+
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & Credentials
 
-**Bachelor of Technology in Cyber Security**  
-Lakshmi Narain College of Technology (LNCT), Bhopal • 2025-2029
+<table>
+<tr>
+<td width="60%">
 
-**Certifications:**
-- ✅ Responsive Web Design - freeCodeCamp
+### 🎯 Currently Studying
+**Bachelor of Technology — Cyber Security**  
+*Lakshmi Narain College of Technology (LNCT), Bhopal*  
+📅 2025 – 2029
+
+</td>
+<td width="40%">
+
+### 🏅 Certifications
+- ✅ Responsive Web Design — *freeCodeCamp*
 - ✅ Frontend Development
 - ✅ Modern AI Fundamentals
 - ✅ Networking Fundamentals
-- ✅ Hackvento 2k26 Participation
+- ✅ Hackvento 2k26 Participant
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mikky-mlh/Mikky-mlh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Mikky-mlh/Mikky-mlh/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
 </div>
 
 ---
 
 <div align="center">
 
-## 📫 Let's Connect
+## 💬 Let's Build Something
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikky-mlh.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
+[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikky-mlh.github.io/Portfolio/)
 
-**Open for:** Technical feedback • Open-source collaboration • Security-focused development
-
-*"Quality is not an act, it is a habit." — Aristotle*
+### 🎯 I'm open to:
+`Technical Feedback` · `Open-Source Collaboration` · `Security-Focused Projects` · `Internship Opportunities`
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mikky-mlh&color=6366f1&style=for-the-badge)
+> *"Quality is not an act, it is a habit."* — **Aristotle**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
 </div>
+```
+
+---
