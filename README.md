@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Sarathe)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mikky_mlh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Yuvraj_Sarathe/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
@@ -152,7 +152,7 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 <div align="center">
 
 [![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
-[![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Mikky_mlh/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Yuvraj_Sarathe/)
 [![Striver A2Z](https://img.shields.io/badge/Curriculum-Striver_A2Z-ef4444?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
 
 *95 implementations • Pattern-based problem solving • Daily consistency*
