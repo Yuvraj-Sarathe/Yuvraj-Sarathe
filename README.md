@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Yuvraj%20Sarathe&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I%20don't%20write%20code.%20I%20ship%20software.&descAlignY=55&descSize=22" alt="header"/>
 
 <!-- Typing SVG -->
-<a href="https://github.com/Mikky-mlh">
+<a href="https://github.com/Yuvraj-Sarathe">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=🛡️+B.Tech+Cyber+Security+%40+LNCT+Bhopal;📦+Production-First+Developer;🚀+Shipping+real+apps%2C+not+just+repos;☕+Powered+by+caffeine+%26+curiosity" alt="Typing SVG" />
 </a>
 
@@ -12,12 +12,12 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mikky-mlh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj-Sarathe)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mikky_mlh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikky-mlh.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mikky-mlh&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Yuvraj-Sarathe&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -95,7 +95,7 @@ Offline-first, QR device linking, Google auth, cross-platform PWA.
 **Stack:** `React 19` · `TypeScript` · `Tailwind v4` · `Firebase` · `Vite` · `IndexedDB` · `PWA`
 
 [![Try it Live](https://img.shields.io/badge/🌐_Try_it_Live-flowforge--f5e99.web.app-6366F1?style=for-the-badge)](https://flowforge-f5e99.web.app)
-[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge)](https://github.com/Mikky-mlh/FlowForge)
+[![Source Code](https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/FlowForge)
 
 </div>
 
@@ -134,26 +134,26 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 
 | Project | Description | Tech Stack | Type |
 |---------|-------------|------------|------|
-| 🎮 **[Hangman](https://github.com/Mikky-mlh/Hangman-in-Java)** | Production-ready desktop game with 2000+ word dictionary | `Java` `Swing` | Windows `.exe` |
-| 🔴 **[Connect 4](https://github.com/Mikky-mlh/Connect4-in-Python)** | Adaptive graphics with O(1) win detection | `Python` `Pygame` `NumPy` | Standalone Binary |
-| ❌ **[Tic-Tac-Toe](https://github.com/Mikky-mlh/Tic-Tac-Toe-in-CPP)** | AI opponent with colored console interface | `C++` `Windows API` | Console Game |
-| 🎲 **[Guess the Number](https://github.com/Mikky-mlh/GuessTheNumberGame)** | Event-driven GUI with smart hints | `Python` `Tkinter` | GUI Application |
+| 🎮 **[Hangman](https://github.com/Yuvraj-Sarathe/Hangman-in-Java)** | Production-ready desktop game with 2000+ word dictionary | `Java` `Swing` | Windows `.exe` |
+| 🔴 **[Connect 4](https://github.com/Yuvraj-Sarathe/Connect4-in-Python)** | Adaptive graphics with O(1) win detection | `Python` `Pygame` `NumPy` | Standalone Binary |
+| ❌ **[Tic-Tac-Toe](https://github.com/Yuvraj-Sarathe/Tic-Tac-Toe-in-CPP)** | AI opponent with colored console interface | `C++` `Windows API` | Console Game |
+| 🎲 **[Guess the Number](https://github.com/Yuvraj-Sarathe/GuessTheNumberGame)** | Event-driven GUI with smart hints | `Python` `Tkinter` | GUI Application |
 
 ### 🌍 Web & Portfolio Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **[OFE](https://github.com/Mikky-mlh/OFE)** | Single HTML file challenge — zero external dependencies | [Live Demo](https://mikky-mlh.github.io/OFE/) |
-| **[Web Projects](https://github.com/Mikky-mlh/Web-Projects)** | freeCodeCamp certified responsive portfolio pieces | [Live Demo](https://mikky-mlh.github.io/Web-Projects/) |
-| **[Portfolio](https://github.com/Mikky-mlh/Portfolio)** | Personal portfolio with theme switching | [Live Demo](https://mikky-mlh.github.io/Portfolio/) |
+| **[OFE](https://github.com/Yuvraj-Sarathe/OFE)** | Single HTML file challenge — zero external dependencies | [Live Demo](https://Yuvraj-Sarathe.github.io/OFE/) |
+| **[Web Projects](https://github.com/Yuvraj-Sarathe/Web-Projects)** | freeCodeCamp certified responsive portfolio pieces | [Live Demo](https://Yuvraj-Sarathe.github.io/Web-Projects/) |
+| **[Portfolio](https://github.com/Yuvraj-Sarathe/Portfolio)** | Personal portfolio with theme switching | [Live Demo](https://Yuvraj-Sarathe.github.io/Portfolio/) |
 
 ### 📊 Algorithmic Grind
 
 <div align="center">
 
-[![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Mikky-mlh/DSA-in-Java)
+[![DSA Log](https://img.shields.io/badge/DSA_in_Java-68_Unique_Solves-6366F1?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
 [![LeetCode](https://img.shields.io/badge/LeetCode-76%25_Acceptance-FFA116?style=for-the-badge)](https://leetcode.com/u/Mikky_mlh/)
-[![Striver A2Z](https://img.shields.io/badge/Curriculum-Striver_A2Z-ef4444?style=for-the-badge)](https://github.com/Mikky-mlh/DSA-in-Java)
+[![Striver A2Z](https://img.shields.io/badge/Curriculum-Striver_A2Z-ef4444?style=for-the-badge)](https://github.com/Yuvraj-Sarathe/DSA-in-Java)
 
 *95 implementations • Pattern-based problem solving • Daily consistency*
 
@@ -217,18 +217,18 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 <tr>
 <td width="50%">
 
-![Stats](https://github-readme-stats-drab-one-12.vercel.app/api?username=Mikky-mlh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)
+![Stats](https://github-readme-stats-drab-one-12.vercel.app/api?username=Yuvraj-Sarathe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9)
 
 </td>
 <td width="50%">
 
-![Langs](https://github-readme-stats-drab-one-12.vercel.app/api/top-langs/?username=Mikky-mlh&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
+![Langs](https://github-readme-stats-drab-one-12.vercel.app/api/top-langs/?username=Yuvraj-Sarathe&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
 
 </td>
 </tr>
 </table>
 
-![Streak](https://github-readme-streak-stats-olive-tau-85.vercel.app/?user=Mikky-mlh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1)
+![Streak](https://github-readme-streak-stats-olive-tau-85.vercel.app/?user=Yuvraj-Sarathe&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1)
 
 </div>
 
@@ -264,7 +264,7 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mikky-mlh/Mikky-mlh/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
+  <img src="https://raw.githubusercontent.com/Yuvraj-Sarathe/Yuvraj-Sarathe/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
 </div>
 
 ---
@@ -275,7 +275,7 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajsarathe07@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🤝_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-sarathe)
-[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikky-mlh.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Yuvraj-Sarathe.github.io/Portfolio/)
 
 ### 🎯 I'm open to:
 `Technical Feedback` · `Open-Source Collaboration` · `Security-Focused Projects` · `Internship Opportunities`
