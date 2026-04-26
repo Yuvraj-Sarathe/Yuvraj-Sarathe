@@ -230,8 +230,6 @@ Modular architecture, polished UX, and optimized performance — the full-scale 
 
 ![Streak](https://github-readme-streak-stats-olive-tau-85.vercel.app/?user=Mikky-mlh&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mikky-mlh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15)
-
 </div>
 
 ---
