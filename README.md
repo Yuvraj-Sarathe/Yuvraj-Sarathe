@@ -98,6 +98,17 @@ Free, open-source, offline-first music player for Windows, Android, Linux & macO
 
 ---
 
+### ✈️ JetIndex — Real-time Airfare Price Index for India's CPI
+[![Live](https://img.shields.io/badge/🌐_Live-jetindex.vercel.app-6366F1?style=flat-square)](https://jetindex.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/JetIndex)
+
+> *SIH 2026 hackathon project — automated airfare scraping pipeline replacing manual airport-counter data collection for India's CPI.*
+
+Team lead. 6-member team. Scrapes IndiGo & MakeMyTrip fares nightly, unbundles fare components, and computes a DGCA-weighted Laspeyres price index across 20 domestic routes. Results to be announced.
+
+`Python` · `FastAPI` · `React` · `TimescaleDB` · `Celery` · `Docker`
+
+---
+
 ### 🔍 GitDeep — AI GitHub Profile Analyzer
 [![Live](https://img.shields.io/badge/🌐_Live-gitdeep.vercel.app-6366F1?style=flat-square)](https://gitdeep.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/GitDeep)
 
