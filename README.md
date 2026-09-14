@@ -76,14 +76,14 @@ Led core development and CI/CD for a terminal-based Docker & Kubernetes monitori
 
 ## 🚀 Featured Projects
 
-### 🔖 IssuesSwipe — Swipe to Contribute
-[![Live](https://img.shields.io/badge/🌐_Live-issues--swipe.vercel.app-6366F1?style=flat-square)](https://issues-swipe-eta.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/IssuesSwipe)
+### ✈️ JetIndex — Real-time Airfare Price Index for India's CPI
+[![Live](https://img.shields.io/badge/🌐_Live-jetindex.vercel.app-6366F1?style=flat-square)](https://jetindex.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/JetIndex)
 
-> *Tinder-style interface for finding open-source issues to work on.*
+> *SIH 2026 hackathon project — automated airfare scraping pipeline replacing manual airport-counter data collection for India's CPI.*
 
-Contributed core development. Issue search and filtering is powered by my **GitIssue** project.
+Team lead. 6-member team. Scrapes IndiGo & MakeMyTrip fares nightly, unbundles fare components, and computes a DGCA-weighted Laspeyres price index across 20 domestic routes. Results to be announced.
 
-`React` · `TypeScript` · `GitHub API`
+`Python` · `FastAPI` · `React` · `TimescaleDB` · `Celery` · `Docker`
 
 ---
 
@@ -98,14 +98,14 @@ Free, open-source, offline-first music player for Windows, Android, Linux & macO
 
 ---
 
-### ✈️ JetIndex — Real-time Airfare Price Index for India's CPI
-[![Live](https://img.shields.io/badge/🌐_Live-jetindex.vercel.app-6366F1?style=flat-square)](https://jetindex.vercel.app) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Yuvraj-Sarathe/JetIndex)
+### 🔖 IssuesSwipe — Swipe to Contribute
+[![Live](https://img.shields.io/badge/🌐_Live-issues--swipe.vercel.app-6366F1?style=flat-square)](https://issues-swipe-eta.vercel.app/) [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org/IssuesSwipe)
 
-> *SIH 2026 hackathon project — automated airfare scraping pipeline replacing manual airport-counter data collection for India's CPI.*
+> *Tinder-style interface for finding open-source issues to work on.*
 
-Team lead. 6-member team. Scrapes IndiGo & MakeMyTrip fares nightly, unbundles fare components, and computes a DGCA-weighted Laspeyres price index across 20 domestic routes. Results to be announced.
+Contributed core development. Issue search and filtering is powered by my **GitIssue** project.
 
-`Python` · `FastAPI` · `React` · `TimescaleDB` · `Celery` · `Docker`
+`React` · `TypeScript` · `GitHub API`
 
 ---
 
