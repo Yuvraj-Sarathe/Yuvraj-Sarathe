@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/Yuvraj-Sarathe">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=🖥️+CSE+Student+-+1st+Year+%40+LNCT+Bhopal;🏛️+Owner+of+Git-Guild+Open-Source+Org;🌱+Leveling+up+as+a+software+professional;📦+Production-First+Developer;🚀+Shipping+real+apps%2C+not+just+repos;☕+Powered+by+caffeine+%26+curiosity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=🖥️+CSE+Student+-+2nd+Year+%40+LNCT+Bhopal;🏛️+Owner+of+Git-Guild+Open-Source+Org;🌱+Leveling+up+as+a+software+professional;📦+Production-First+Developer;🚀+Shipping+real+apps%2C+not+just+repos;☕+Powered+by+caffeine+%26+curiosity" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@
 const yuvraj = {
   role: "Production-First Developer",
   location: "Bhopal, India 🇮🇳",
-  education: "CSE Student, 1st Year @ LNCT (2025-2029)",
+  education: "CSE Student, 2nd Year @ LNCT (2025-2029)",
   
   philosophy: "Most devs write code. I ship software.",
   
@@ -38,7 +38,7 @@ const yuvraj = {
     "👿 Co-founder @Omnikon",
     "🌱 Always pushing to be a better professional",
     "📚 Grinding DSA",
-    "🌐 Mastering the React + TypeScript ecosystem"
+    "⚙️ Building backend systems, APIs & CI/CD pipelines"
   ],
   
   shippingPhilosophy: {
@@ -60,7 +60,7 @@ const yuvraj = {
 ### 🏛️ Owner — Git-Guild
 [![GitHub](https://img.shields.io/badge/📂_Org-GitHub-181717?style=flat-square)](https://github.com/Git-Guild)
 
-Founded and own **Git-Guild** — an open-source org housing donated projects and educational repos. Donated **GitIssue** (cross-repo GitHub issue search) and **GitDeep** (AI GitHub profile analyzer). Maintaining 3 "Starting-from-0" courses documenting logic and code with heavy comments:
+Founded and own **Git-Guild** — a student-first open-source collective: *by students, for students, powered by open source.* It houses donated projects and educational repos. Shipped **[Git-Issue](https://github.com/Git-Guild/Git-Issue)** (cross-repo GitHub issue search) and **[GitDeep](https://github.com/Git-Guild/GitDeep)** (AI GitHub profile analyzer, 7★ / 12 forks). Maintaining 3 "Starting-from-0" courses documenting logic and code with heavy comments:
 - [JAVA-Starting-from-0](https://github.com/Git-Guild/JAVA-Starting-from-0) — JAVA25 & DSA folders
 - [Python-Starting-from-0](https://github.com/Git-Guild/Python-Starting-from-0)
 - [CPP-Starting-from-0](https://github.com/Git-Guild/CPP-Starting-from-0) — OOPM & DSA folders
@@ -70,9 +70,9 @@ Founded and own **Git-Guild** — an open-source org housing donated projects an
 ### 👿 Co-founder — Omnikon
 [![GitHub](https://img.shields.io/badge/📂_Source-GitHub-181717?style=flat-square)](https://github.com/Omnikon-Org)
 
-Building open-source developer tools. Shipped **IssuesSwipe** (Tinder-style issue discovery). Leading full-stack development across the org. Organized multiple events like hackathons that got over 200k+ impressions!
+Building open-source developer tools. Shipped **IssuesSwipe** (Tinder-style issue discovery). Own the core backend work across the org — the **Certifier API** (GitHub Webhooks, PR-label tracking, org-wide contribution badges) plus docs and release automation. Organized multiple events like hackathons that got over 200k+ impressions!
 
-`Next.js` · `TypeScript` · `FastAPI` · `GitHub Webhooks`
+`Python` · `FastAPI` · `GitHub Webhooks` · `GitHub Actions`
 
 ---
 
@@ -103,7 +103,7 @@ Free, open-source, offline-first music player for Windows, Android, Linux & macO
 
 > *Tinder-style interface for finding open-source issues to work on.*
 
-Contributed core development. Issue search and filtering is powered by my **GitIssue** project.
+Contributed core development. Issue search and filtering is powered by my **[Git-Issue](https://github.com/Git-Guild/Git-Issue)** project.
 
 `React` · `TypeScript` · `GitHub API`
 
